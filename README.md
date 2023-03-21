@@ -1,6 +1,6 @@
 # personal-repo
 
-##For Practice and to test functionality 
+## For Practice and to test functionality 
 
 The motivation behind this project was to refactor the HTML elements and adjust their corresponding CSS selectors so that the finished product matched the mock up with semantic HTML. 
 
@@ -8,7 +8,7 @@ The first step I took when examining this project was to look at the index.html 
 
 The main thing I've learned from this is that semantic HTML looks much cleaner than using a whole bunch of <div> and in order to become more functional in CSS, a lot of practice is required. 
 
-##LICENSE
+## LICENSE
 
 MIT License
 
