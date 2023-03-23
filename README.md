@@ -8,6 +8,13 @@ The first step I took when examining this project was to look at the index.html 
 
 The main thing I've learned from this is that semantic HTML looks much cleaner than using a whole bunch of <div> and in order to become more functional in CSS, a lot of practice is required. 
 
+## Usage 
+
+![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%202023-03-23%20181942.png)
+
+![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%202023-03-23%20182536.png)
+
+
 ## LICENSE
 
 MIT License
